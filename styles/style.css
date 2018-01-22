@@ -253,3 +253,9 @@ input:in-range {
 .page-header {
 	border-bottom: 0px;
 }
+
+.input-md {
+	margin-left: 10px;
+	margin-right: 10px;
+	width: 98%;
+}
