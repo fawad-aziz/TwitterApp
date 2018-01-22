@@ -11,7 +11,7 @@
 	
 	function appointmentController(sharedService, $interval, $log) {
 		var vm = this;
-		var appHostUrl = "http://localhost:62499/";
+		var appHostUrl = "http://tweetapi.azurewebsites.net/";
         var tweetUrl = "api/tweets";
         vm.tweetCollection = [];
 		
